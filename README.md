@@ -1,5 +1,5 @@
 # Overview
-Javascript file that populates an HTML <p> element text with "Hello World"
+Javascript file that populates an HTML "p" element text with "Hello World"
 
 Set up example repo for Github
 
